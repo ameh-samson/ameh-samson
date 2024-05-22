@@ -2,7 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameh-samson&label=Profile%20views&color=0e75b6&style=flat" alt="ameh-samson" /> </p>
 
-<p align="left"> <a href="https://twitter.com/samson_ameh3" target="blank"><img src="https://img.shields.io/twitter/follow/samson_ameh3?logo=twitter&style=for-the-badge" alt="samson_ameh3" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/samsonameh" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-samson--ameh-blue?style=for-the-badge&logo=linkedin" alt="samson-ameh" />
+  </a> 
+</p>
+
 
 - 🌱 I’m currently learning **NextJs**
 
