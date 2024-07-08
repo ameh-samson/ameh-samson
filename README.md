@@ -42,7 +42,7 @@
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/code.gif"/>
+ <img alt="GIF" src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/giphy.webp"/>
 </div>
 
 <!-- section one end here -->
