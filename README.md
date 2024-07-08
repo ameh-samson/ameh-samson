@@ -59,10 +59,10 @@
 <details>
   <summary><h2> <img align="center" src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=ameh-samson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ameh-samson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=ameh-samson&theme=tokyo-night)
+    <img src="https://github-readme-stats.vercel.app/api?username=ameh-samson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&theme=tokyonight&hide_border=false"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameh-samson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameh-samson&theme=tokyo-night"/>
   </div>
 </details>
 <!-- section three end here -->
