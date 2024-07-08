@@ -66,12 +66,10 @@
 <!-- section three end here -->
 
 <!-- section fout start here -->
-<details>
-  <summary><h2> <img align="center" src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:amehsam60@gmail.com">
-      <img align="center" src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/samson_ameh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samson_ameh3" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/samsonameh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samsonameh" height="30" width="40" /></a>
+  <a href="https://facebook.com/ayobami.olaoluwa.71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/ayobami.olaoluwa.71/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/samsonameh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samsonameh_/" height="30" width="40" /></a>
+</p>
