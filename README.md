@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&" alt="ameh-samson" /></p> -->
 
-<h1 align="center">Hi <img src="https://github.com/ameh-samson/ameh-samson/icons/code.gif" width="28px"/>, I'm Samson Ameh</h1>
+<h1 align="center">Hi, <img src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/code.gif" width="28px"/>I'm Samson Ameh</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ameh-samson&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Frontend Engineer
