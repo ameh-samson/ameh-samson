@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I am Samson Ameh</h1>
+<!-- <h1 align="center">Hi 👋, I am Samson Ameh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameh-samson&label=Profile%20views&color=0e75b6&style=flat" alt="ameh-samson" /> </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.linkedin.com/in/samsonameh" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-samson--ameh-blue?style=for-the-badge&logo=linkedin" alt="samson-ameh" />
-  </a> 
+  </a>
 </p>
 
 
@@ -30,4 +30,16 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameh-samson&show_icons=true&locale=en&layout=compact" alt="ameh-samson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&" alt="ameh-samson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&" alt="ameh-samson" /></p> -->
+
+<h1 align="center">Hi <img src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/Hi.gif" width="28px"/>, I'm Samson Ameh</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=ameh-samson&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Frontend Engineer
+  <a href="https://github.com/ameh-samson">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
