@@ -1,4 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&" alt="ameh-samson" /></p> -->
 
 <!-- section one -->
 <h1 align="center">Hi 👋, I'm Samson Ameh</h1>
@@ -26,7 +25,6 @@
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&theme=tokyonight&hide_border=false"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameh-samson&theme=tokyonight&hide_border=false&count_private=true&layout=compact"/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameh-samson&theme=tokyo-night"/>
   </div>
 
 <!-- section three end here -->
