@@ -1,6 +1,6 @@
 
 <!-- section one -->
-<h1 align="center">Hi 👋, I'm Samson Ameh</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Samson Ameh</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ameh-samson&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Frontend Engineer
@@ -9,7 +9,7 @@
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://github.com/ameh-samson/ameh-samson/blob/main/icons/giphy.webp"/>
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!-- section one end here -->
@@ -22,7 +22,7 @@
 
 <!-- section three start here -->
   <h2 align="left">Stats</h2>
-  <div align="center">
+  <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameh-samson&theme=tokyonight&hide_border=false"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameh-samson&theme=tokyonight&hide_border=false&count_private=true&layout=compact"/><br/>
   </div>
